@@ -4,6 +4,8 @@
 
 ## Specification
 
+**Note:** To render this README file nicely, do not view it on GitHub. Instead, view it with the graphical editor within CoCalc, which will render the Markdown code in a two-pane presentation.
+
 Complete the following exercises, placing your solutions into separate files. Remember to use the templates in the `info` repository as a guide for what you should include in your source files. In each file, write the solution as a callable function.
 
 0. **Exercise 0**
