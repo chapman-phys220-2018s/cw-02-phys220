@@ -12,8 +12,16 @@ b - upper segment bound that has been given a default value of b=0
 """
 def coord_for(n, a=0, b=1):
     coords = []
-    int_l = b-a
-    inc = int_l / n
+    inc = (b-a)/ n
     for x in range(n+1):
         coords.append(a+inc*x)
     return coords
+
+def coord_while(n, a=0, b=0):
+    coords=[]
+    k=0
+    while k<= n+1:
+        coords.append(a+(a-b)*k/n)
+        k+=1
+    return coords
+
