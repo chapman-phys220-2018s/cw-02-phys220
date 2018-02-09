@@ -17,11 +17,11 @@ def coord_for(n, a=0, b=1):
         coords.append(a+inc*x)
     return coords
 
+
 def coord_while(n, a=0, b=1):
     coords=[]
-    k=len(coords)
-    while k<(n+1):
-        k=len(coords)
-        coords.append((b-a)*k/n)
+    num=a
+    while num!=(n+1):
+        coords.append((b-a)*num/n)
+        num=len(coords)
     return coords
-
