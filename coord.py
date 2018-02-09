@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """Module Description:
-Module contains function coord_for(n, a=0, b=0) that takes a number of intervals and two 
+Module contains function coord_for(n, a=0, b=0) that takes a number of intervals and two
 end points of a segment and returns a list of the interval division coordinates.
 
 Arguments:
@@ -17,11 +17,11 @@ def coord_for(n, a=0, b=1):
         coords.append(a+inc*x)
     return coords
 
-def coord_while(n, a=0, b=0):
+def coord_while(n, a=0, b=1):
     coords=[]
-    k=0
-    while k<= n+1:
-        coords.append(a+(a-b)*k/n)
-        k+=1
+    k=len(coords)
+    while k<(n+1):
+        k=len(coords)
+        coords.append((b-a)*k/n)
     return coords
 
