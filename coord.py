@@ -11,6 +11,8 @@ a - lower segment bound that has been given a default value of a=0
 b - upper segment bound that has been given a default value of b=0
 """
 def coord_for(n, a=0, b=1):
+    a=float(a)
+    b=float(b)
     coords = []
     inc = (b-a)/ n
     for x in range(n+1):
@@ -19,12 +21,15 @@ def coord_for(n, a=0, b=1):
 
 
 def coord_while(n, a=0, b=1):
+    a=float(a)
+    b=float(b)
     coords=[]
     num=a
     while num!=(n+1):
         coords.append((b-a)*num/n)
         num=len(coords)
     return coords
+    
 
 if __name__ == "__main__":
     print("choose values for n, a, and b.")
