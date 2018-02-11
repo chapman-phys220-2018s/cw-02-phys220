@@ -1,10 +1,8 @@
 # PHYS220 CW 2
 
-<<<<<<< HEAD
+
 **Author(s):** Daniel, Myranda, Devon
-=======
-**Author(s):** Daniel, Devon, Myranda
->>>>>>> 450c9a97cb633791af65fa66412df3887b2ad8aa
+
 
 ## Specification
 
@@ -78,8 +76,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-<<<<<<< HEAD
-Daniel
-=======
-Myranda 
->>>>>>> 450c9a97cb633791af65fa66412df3887b2ad8aa
+Daniel, Myranda
