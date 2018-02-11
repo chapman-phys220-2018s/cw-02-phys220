@@ -25,3 +25,7 @@ def coord_while(n, a=0, b=1):
         coords.append((b-a)*num/n)
         num=len(coords)
     return coords
+
+def coords_comp(n, a=0, b=1):
+    coords=[(b-a)*k/n for k in range(n+1)]
+    return coords
