@@ -63,7 +63,7 @@ the coordinates in a list.
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
+-still a little confused about how exactly to use jupyter. (MH)
 
 **CHANGEME**
 
