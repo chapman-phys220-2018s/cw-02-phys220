@@ -19,7 +19,6 @@ def coord_for(n, a=0, b=1):
         coords.append(a+inc*x)
     return coords
 
-
 def coord_while(n, a=0, b=1):
     a=float(a)
     b=float(b)
@@ -34,11 +33,6 @@ def coords_comp(n, a=0, b=1):
     coords=[(b-a)*k/n for k in range(n+1)]
     return coords
 
-
-
-=======
-    
-
 if __name__ == "__main__":
     print("choose values for n, a, and b.")
     n_int= int(input ("number of intervals n+1:"))
@@ -48,5 +42,3 @@ if __name__ == "__main__":
     while_list=coord_while(n,a,b)
     print(str(for_list))
     print(str(while_list))
-    
->>>>>>> 327d56c5d112ab9034652fae09982f4635358dca
