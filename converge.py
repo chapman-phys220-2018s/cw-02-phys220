@@ -12,3 +12,20 @@ def compute_sum(tol = 1e-2):
     return sum_total
 
 
+#def compute_sumlarge(tol=1e-20):
+    #sum=0
+    #k=float(1)
+    #if tol<(1/(k**2))
+        #sumlarge += (1/(k**2))
+        #k +=1
+    #return sum
+#We can do this by replacing tol with any number we want in jupyter
+
+#if __name__ in "__main__":
+    #print ("If tol=1e-2, then it converges at "compute_sum)
+    #print ("If tol=1e-20, then it converges at" compute_sumlarge)
+
+    #We don't need this if we are calling the functions into our jupyter notebook, so we can remove it
+    #if we want less clutter
+
+
