@@ -38,7 +38,7 @@ def coords_comp(n, a=0, b=1):
 
 
 =======
-    
+
 
 if __name__ == "__main__":
     print("choose values for n, a, and b.")
@@ -46,8 +46,8 @@ if __name__ == "__main__":
     a_int= int(input ("starting value =a:"))
     b_int= int(input ("last value =b:"))
     for_list= (coord_for(n,a,b))
-    while_list=coord_while(n,a,b)
+    while_list=(coord_while(n,a,b))
     print(str(for_list))
     print(str(while_list))
-    
+
 >>>>>>> 327d56c5d112ab9034652fae09982f4635358dca

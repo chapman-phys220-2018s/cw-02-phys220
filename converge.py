@@ -20,7 +20,7 @@ def compute_sumlarge(tol=1e-20):
 
 if __name__ in "__main__":
     print ("If tol=1e-2, then it converges at "compute_sum)
-    print ("If tol=1e-20, then it converges at" compute_sumlarge)
+    print ("If tol=1e-20, then it converges at " compute_sumlarge)
     
 
 

@@ -1,6 +1,6 @@
-{"type":"cell","id":"0a4e44","pos":2,"input":"fibs.fibs(4)","output":{"0":{"data":{"text/plain":"[1, 1, 2, 3]"},"output_type":"execute_result","exec_count":2}},"cell_type":"code","exec_count":2}
-{"type":"cell","id":"1e034e","pos":0,"input":"import fibs","cell_type":"code","exec_count":1}
-{"type":"cell","id":"9efb0d","pos":1,"input":"# Title\n\nnames\n\ndates\n\n## Section\n\n### Exercise 1:","cell_type":"markdown"}
-{"type":"cell","id":"b33999","pos":3,"input":"g = fibs.fib_generator()\n[next(g) for _ in range(5)]","output":{"0":{"data":{"text/plain":"[1, 1, 2, 3, 5]"},"output_type":"execute_result","exec_count":3}},"cell_type":"code","exec_count":3}
-{"type":"file","last_load":1518414666081}
-{"type":"settings","kernel":"anaconda3","backend_state":"running","trust":false,"metadata":{"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.5.4"}},"kernel_usage":{"cpu":0,"memory":86257664},"kernel_state":"idle"}
+{"type":"cell","id":"1530ea","pos":2,"input":"fibs.fibs(4)","output":{"0":{"data":{"text/plain":"[1, 1, 2, 3]"},"output_type":"execute_result","exec_count":2}},"cell_type":"code","exec_count":2}
+{"type":"cell","id":"367e7e","pos":0,"input":"import fibs","cell_type":"code","exec_count":1}
+{"type":"cell","id":"8b442d","pos":1,"input":"# CW 02\n\nDaniel, Devon, Myranda\n\nFeb.13, 2018\n\n## Section 1\n\n### Exercise 1:","cell_type":"markdown"}
+{"type":"cell","id":"d23707","pos":3,"input":"g = fibs.fib_generator()\n[next(g) for _ in range(5)]","output":{"0":{"data":{"text/plain":"[1, 1, 2, 3, 5]"},"output_type":"execute_result","exec_count":3}},"cell_type":"code","exec_count":3}
+{"type":"file","last_load":1518492170167}
+{"type":"settings","kernel":"anaconda3","backend_state":"running","trust":false,"metadata":{"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.5.4"}},"kernel_state":"idle","kernel_usage":{"cpu":0,"memory":86233088}}
