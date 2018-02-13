@@ -4,6 +4,9 @@
 #Daniel Chang
 #2260161
 #Chang254@mail.chapman.edu
+#Myranda Hoggatt
+#2285495
+#hogga102@mail.chapman.edu
 #PHYS220 Spring 2018
 #CW02 Exercise 3
 
