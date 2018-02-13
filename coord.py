@@ -1,6 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+#Daniel Chang
+#2260161
+#Chang254@mail.chapman.edu
+#PHYS220 Spring 2018
+#CW02 Exercise 1
+
 """Module Description:
 Module contains function coord_for(n, a=0, b=0) that takes a number of intervals and two
 end points of a segment and returns a list of the interval division coordinates.

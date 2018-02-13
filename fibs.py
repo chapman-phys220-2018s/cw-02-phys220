@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-#Daniel, Myranda, Devon
-#Chang254
+#Daniel Chang
+#2260161
+#Chang254@mail.chapman.edu
 #PHYS220 Spring 2018
+#CW02 Exercise 2
+
 
 
 def fibs(n):
