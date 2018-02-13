@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+#Daniel, Myranda, Devon
+#Chang254
+#PHYS220 Spring 2018
+
+
 def fibs(n):
     numbers=[1,1]
     k=1
@@ -24,7 +29,7 @@ if __name__ in =="__main__":
     print (fibs(n))
     g = fib_generator()
     [next(g) for _ in range(5)]
-   
+
 
 
 
