@@ -17,5 +17,3 @@ def compute_sum(tol = 1e-2):
         k += 1
     return sum_total
 
-
-

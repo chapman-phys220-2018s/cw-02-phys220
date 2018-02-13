@@ -1,0 +1,10 @@
+{"type":"cell","id":"3b1fd4","pos":7,"input":"","cell_type":"code","exec_count":0}
+{"type":"cell","id":"5bf050","pos":6,"input":"print(converge.compute_sum(1e-10))","output":{"0":{"name":"stdout","output_type":"stream","text":"1.6449240668982423\n"}},"cell_type":"code","exec_count":6}
+{"type":"cell","id":"5d88cf","pos":4,"input":"import converge","cell_type":"code","exec_count":4}
+{"type":"cell","id":"72cbe7","pos":1,"input":"# CW 02\n\nDaniel, Devon, Myranda\n\nFeb.13, 2018\n\n## Section 1\n\n### Exercise 1:","cell_type":"markdown"}
+{"type":"cell","id":"94ca86","pos":5,"input":"print(converge.compute_sum())","output":{"0":{"name":"stdout","output_type":"stream","text":"1.5497677311665408\n"}},"cell_type":"code","exec_count":5}
+{"type":"cell","id":"d97a09","pos":3,"input":"g = fibs.fib_generator()\n[next(g) for _ in range(5)]","output":{"0":{"data":{"text/plain":"[1, 1, 2, 3, 5]"},"output_type":"execute_result","exec_count":3}},"cell_type":"code","exec_count":3}
+{"type":"cell","id":"eaa0a5","pos":2,"input":"fibs.fibs(4)","output":{"0":{"data":{"text/plain":"[1, 1, 2, 3]"},"output_type":"execute_result","exec_count":2}},"cell_type":"code","exec_count":2}
+{"type":"cell","id":"edea06","pos":0,"input":"import fibs","cell_type":"code","exec_count":1}
+{"type":"file","last_load":1518492836477}
+{"type":"settings","kernel":"anaconda3","kernel_state":"idle","backend_state":"running","trust":false,"metadata":{"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.5.4"}}}
