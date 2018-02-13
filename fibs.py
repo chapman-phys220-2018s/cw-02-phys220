@@ -27,11 +27,6 @@ def fib_generator():
         a=b
         b=c
 
-if __name__ in =="__main__":
-    n=input("value for n:")
-    print (fibs(n))
-    g = fib_generator()
-    [next(g) for _ in range(5)]
 
 
 
